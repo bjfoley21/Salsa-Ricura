@@ -18,8 +18,8 @@ export default function Page() {
             <p>5-Week Session: $85</p>
             <p>10-Week Session: $130</p>
             <p>New Student 10-Week Session: $90</p>
-            <p>1hr private: $60</p>
-            <p>1hr private (two students): $70</p>
+            <p>1 hr private: $60</p>
+            <p>1 hr private (two students): $70</p>
             <br />  
           </div>
         </div>

@@ -14,7 +14,7 @@ export default function Page() {
             <p>Salsa Level 2 - 8:30-9:30pm</p>
             <br />
             <h3 className="title"> Prices</h3>
-            <a href='https://www.instagram.com/salsa_ricura/'>
+            <a href='https://www.mindbodyonline.com/explore/locations/salsa-ricura'>
             <p>Drop-In: $20</p> 
             </a>
             <p>5-Week Session: $85</p>

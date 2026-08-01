@@ -9,12 +9,13 @@ export default function Page() {
         </div>
         <div className="schedule">
           <div>
+            <h2 className="title">Wednesday</h2>
+            <a href="https://www.dancecomplex.org/event/salsa-2-2/2025-09-08/">
+            <p>Beginner NY Salsa - 7:00-8:00pm</p>
+            </a>
             <h2 className="title">Monday</h2>
             <a href="https://www.dancecomplex.org/event/salsa-2-2/2025-09-08/">
-            <p>Beginner NY Salsa - 7:30-8:30pm</p>
-            </a>
-            <a href="https://www.dancecomplex.org/event/salsa-2-2/2025-09-08/">
-            <p>Salsa Level 2 - 8:30-9:30pm</p>
+            <p>Intermediate NY Salsa - 8:00-9:00pm</p>
             </a>
             <br />
             <h3 className="title"> Prices</h3>
